@@ -1,0 +1,6 @@
+# ninja log v5
+0	201	1672496024310900807	CMakeFiles/Opacity_Color_Finder.dir/main.cpp.o	6418109bf13a1e78
+201	233	1672496024342900881	Opacity_Color_Finder	8dda1593a46a073a
+0	138	1672496626112112622	CMakeFiles/Opacity_Color_Finder.dir/rgbconventer.cpp.o	b39d7a6f4fb60c7e
+0	190	1672496626164112716	CMakeFiles/Opacity_Color_Finder.dir/main.cpp.o	6418109bf13a1e78
+190	223	1672496626196112773	Opacity_Color_Finder	d71762014eb29821

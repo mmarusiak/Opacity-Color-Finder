@@ -1,0 +1,3 @@
+/home/mmarusiak/Desktop/Programming/realcpp/Opacity-Color-Finder/cmake-build-debug/CMakeFiles/Opacity_Color_Finder.dir
+/home/mmarusiak/Desktop/Programming/realcpp/Opacity-Color-Finder/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mmarusiak/Desktop/Programming/realcpp/Opacity-Color-Finder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
