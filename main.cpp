@@ -71,8 +71,8 @@ void program(){
         }
 
         std::cout << "Hex value of new color with opacity " << targetOpacity << ": " << rgbconventer::convertRGBtoHex(color_val[0], color_val[1], color_val[2]) << std::endl;
-        std::cout << red << "R" << green << "G" << blue << "B" << gray << "A" << def << " value of the new color is: (" << red << color_val[0] << def << ", " << blue << color_val[1] << def
-        << ", " << green << color_val[2] << def << ", " << gray << targetOpacity << def << ")" << std::endl;
+        std::cout << red << "R" << green << "G" << blue << "B" << gray << "A" << def << " value of the new color is: (" << red << color_val[0] << def << ", " << green << color_val[1] << def
+        << ", " << blue << color_val[2] << def << ", " << gray << targetOpacity << def << ")" << std::endl;
     }else{
         std::cout << "Output color wasn't found, probably doesn't exist. You may provide some different combination of colors.";
         program();
