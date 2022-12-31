@@ -65,7 +65,7 @@ void program(){
             color_val[i] = *(color + i);
             rgb += std::to_string(*(color + i));
             if(i < 3)
-                rgb += "; ";
+                rgb += ", ";
         }
         rgb += ")";
         std::cout << "Hex value of new color with opacity " << targetOpacity << ": " << rgbconventer::convertRGBtoHex(color_val[0], color_val[1], color_val[2]) << std::endl;
