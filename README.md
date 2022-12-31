@@ -1,10 +1,10 @@
 # Opacity Color Finder
 
-Just quick project for C++, also my first project in C++ for long time.
+Just quick project made in C++, also my first project in C++ for long time.
 
 ## What is it and how it works?
 
-So, when I was using creating UI in Unity I wanted to find color with some declared opacity which after blend with my background color will be color that I expect. That's why I made this tool.
+So, when I was creating UI in Unity, I wanted to find color with some declared opacity which after blend with my background color will be the color that I expect. That's why I made this tool.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/20907620/210140897-7b093d00-6b95-4464-b4ba-cb014dcee548.png">
@@ -12,7 +12,7 @@ So, when I was using creating UI in Unity I wanted to find color with some decla
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
-So from example above:  
+So from picture above:  
 If you have ``background color`` (here blue *(left)* color), ``opacity of second color`` (opacity of green *(right)* color) and ``blended color`` (middle, blended green and blue color, here gray-blue-ish like) **``you will get output color``** (RGBA and HEX) value.
 
 Example input:
