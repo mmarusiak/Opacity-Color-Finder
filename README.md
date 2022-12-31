@@ -37,3 +37,7 @@ App works in console.
 ## Usage
 
 Just follow instructions displayed in console.
+
+
+![consolecolors](https://user-images.githubusercontent.com/20907620/210148974-3b4325c0-61cf-4b33-8d8a-45282c0f8b2b.png)
+
