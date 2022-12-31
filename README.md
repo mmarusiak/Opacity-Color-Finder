@@ -4,7 +4,7 @@ Just quick project for C++, also my first project in C++ for long time.
 
 ## What is it and how it works?
 
-So, when I was using creating UI in Unity I wanted to find color with some declared opacity which after blend with my background color will be color that I expect.
+So, when I was using creating UI in Unity I wanted to find color with some declared opacity which after blend with my background color will be color that I expect. That's why I made this tool.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/20907620/210140897-7b093d00-6b95-4464-b4ba-cb014dcee548.png">
