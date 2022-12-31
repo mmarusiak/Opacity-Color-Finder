@@ -1,6 +1,4 @@
-//
-// Created by mmarusiak on 31.12.22.
-//
+// https://www.geeksforgeeks.org/convert-the-given-rgb-color-code-to-hex-color-code/
 
 #ifndef OPACITY_COLOR_FINDER_RGBCONVENTER_H
 #define OPACITY_COLOR_FINDER_RGBCONVENTER_H

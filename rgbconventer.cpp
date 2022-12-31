@@ -1,7 +1,3 @@
-//
-// Created by mmarusiak on 31.12.22.
-//
-
 // https://www.geeksforgeeks.org/convert-the-given-rgb-color-code-to-hex-color-code/
 #include <string>
 #include "rgbconventer.h"
