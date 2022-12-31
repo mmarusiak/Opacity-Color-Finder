@@ -24,8 +24,6 @@ Expected output:
 > Hex value of new color with opacity 70: #0C0161  
 RGBA value of the new color is: (12, 16, 22, 70)
 
-App is simple and made by beginner in C++, so feel free to contribute and improve it by yourself.
-
 App works in console.
 
 ## Installation
@@ -41,3 +39,6 @@ Just follow instructions displayed in console.
 
 ![consolecolors](https://user-images.githubusercontent.com/20907620/210148974-3b4325c0-61cf-4b33-8d8a-45282c0f8b2b.png)
 
+## Contributions 
+
+App is simple and made by beginner in C++, so feel free to contribute and improve it by yourself.
