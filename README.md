@@ -36,8 +36,7 @@ App works in console.
 
 Just follow instructions displayed in console.
 
-
-![consolecolors](https://user-images.githubusercontent.com/20907620/210148974-3b4325c0-61cf-4b33-8d8a-45282c0f8b2b.png)
+![consolecolors](https://user-images.githubusercontent.com/20907620/210149154-8f911c05-dd61-499d-8360-6fd05b4c5422.png)
 
 ## Contributions 
 
